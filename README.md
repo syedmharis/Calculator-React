@@ -9,7 +9,7 @@ Created with *create-react-app*. See the [full create-react-app guide](https://g
 Try It
 ---
 
-[ahfarmer.github.io/calculator](https://github.com/harrylovescoding/calculator-react)
+[myfreecalculator](https://github.com/harrylovescoding/calculator-react/)
 
 
 
